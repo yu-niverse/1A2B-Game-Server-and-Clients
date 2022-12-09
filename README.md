@@ -1,1 +1,1 @@
-# 1A2B-Game-Server-and-Clients
+# 1A2B Game Server and Clients
